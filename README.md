@@ -35,7 +35,7 @@ git clone <your-repo-url>
 cd pet-matrimonial
 2.Install dependencies:npm install
 3.Start the development server:npm run dev
-4.Open http://localhost:5173 to view the application
+
 
 Available Scripts
 npm run dev - Start development server
